@@ -1,0 +1,36 @@
+p1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+   
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    color: black;
+}
+
+.r34{
+    height: 500px;
+    width: 400px;
+    float: left;
+    border: 13px solid black
+
+}
+
+
+.subaru{
+    height: 500px;
+    width: 500px;
+    float: right;
+    border: 13px solid black
+}
+
+
+.rx7{
+    height: 500px;
+    width: 500px;
+    float: right;
+      position: relative;
+      right: 10%;
+    border: 13px solid black
+}
