@@ -1,36 +1,50 @@
-p1{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    
 }
 
 h1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-    color: black;
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+    
 }
+
 
 .r34{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 500px;
     width: 400px;
+    margin: 25px;
     float: left;
-    border: 13px solid black
-
+    border: 13px solid black;
 }
+
 
 
 .subaru{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 500px;
     width: 500px;
+    margin: 25px;
     float: right;
     border: 13px solid black
 }
 
 
 .rx7{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 500px;
     width: 500px;
+    margin: 25px;
     float: right;
       position: relative;
       right: 10%;
     border: 13px solid black
+    }
+
+
+.video{
+
 }
